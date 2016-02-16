@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#f3f3f3</color>
+    <color name="text_color">#333333</color>
+    <color name="budge_color">#2891F7</color>
+    <color name="fb_color">#4471D8</color>
+    <color name="green_color">#22C064</color>
+    <color name="spinnerItem">#FFFFFF</color>
+</resources>

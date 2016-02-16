@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-0e08a0f8f49b611cc6694c5e2decd6e1a2efa353.jar" />
+    </item>
+    <item
+        jar="F:\androidsetup\androidsetup\androidsdkwindows\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-86fa9b04a3f5223a01dbf9929e32444849ffc4c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\gson-2.3.1-abcd48760363049eca39ff1a3058cc061646c4f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-a5dc117e68388d21e1d0456772236d72c6d39265.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.stripe\stripe-java\1.40.0\ea7852585a78f79d85083f29e4a5050679d707b6\stripe-java-1.40.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea7852585a78f79d85083f29e4a5050679d707b6">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\stripe-java-1.40.0-d8352fa52b56066303d28dda577b5b460dc5fc4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.3.0-b492d639725ae7b6b2a53f23dc968405d23abd7e.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.stripe\stripe-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="92a76dcd3b6921f41b625de471a08abcf6f3d96a">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-f3f9266416d0c166dea06464ff0b66b995c7c7e2.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.auth0.android\identity-core\1.13.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f471507d1e9c8ca36da0667ef7e7c59ca67cf623">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-29ba163e599f3b6f45dffc55098765b75eec4d3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\okio-1.6.0-1303c766d0d640094666e62bc6bf5e05f0ac41c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-60e18bb9c2d04e579c9567ce75a218e8fdeefa0f.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-606a574300a732bd7ae21063eebde17d0082066a.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-26ec6087e879c80aefaf37bb5ffa9b2ef938a9c5.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.10.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bcb4a50f5e2c67b3e84441b1b2a239856776c9b8">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-0a2e6fc274f1bc87590aa2dfafde881f2ad9252a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.1\f07c773f7b3a03c3801d405cadbdc93f7548e321\jackson-databind-2.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f07c773f7b3a03c3801d405cadbdc93f7548e321">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\jackson-databind-2.4.1-cea71f933cb4c92298a83c9a5234627fa9e58b4f.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-0ee303c1ec0e10a2446ada9adc2c92370b7c75bb.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.auth0.android\lock\1.13.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="612b90670ae6dc18693a038db26b1a56ae19bcc2">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-7fe53295204d616ac33db40d7dd62b4a2e539548.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-04d3f48fb30e28eabab5fbf3369c625610a82313.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-1ae45c003cef42631cd9ac86f38473189bcddb03.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.auth0.android\core\1.13.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ec9b4d8e6a34b50194ab7f2002021b47835ca136">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-70879447acafc8aa35c3e7b21f69832eec5fdf37.jar" />
+    </item>
+    <item
+        jar="F:\TestApp\app\build\intermediates\exploded-aar\com.hannesdorfmann.smoothprogressbar\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b0c4e77822421eb57e484df72ebb208b62df93e8">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\classes-381c0dce0cc079403580a0f09ad28baef50aaf33.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.1\55605135bd7b836612e0bba7037c9669f6ccf89f\jackson-annotations-2.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55605135bd7b836612e0bba7037c9669f6ccf89f">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.1-e1ff8a24682dc8bf24e7b86d7cebcf776223e3c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.5\7941cd2c2c8ec006800d75c35f8a9dacf892ab93\otto-1.3.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\otto-1.3.5-8c6a0fbdf6c3b3e6f483295ec21910be1582734a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Asus\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.1\b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c\jackson-core-2.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b130bcfb5a9c410c3cbd2e0adec9437e69a39e2c">
+        <dex dex="F:\TestApp\app\build\intermediates\pre-dexed\debug\jackson-core-2.4.1-4b868c32b581218faa773a171910e8f340df779b.jar" />
+    </item>
+
+</items>

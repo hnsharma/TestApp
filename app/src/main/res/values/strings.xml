@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in_small">Sign in</string>
+    <string name="order">Order</string>
+    <string name="product">Product</string>
+    <string name="sign_up_small">Sign up</string>
+    <string name="name">NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_up_fb">SIGN UP VIA FACEBOOK</string>
+    <string name="please_enter_name">Please enter name.</string>
+    <string name="please_enter_email">Please enter email.</string>
+    <string name="please_enter_valid_email">Please enter valid email.</string>
+    <string name="please_enter_password">Please enter password.</string>
+    <string name="your_name">YOUR NAME</string>
+    <string name="f_name_and_l_name">Your first name and last name</string>
+    <string name="enter_f_name">Please enter first name.</string>
+    <string name="enter_l_name">Please enter last name</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="card_long_number">The long number on your card</string>
+    <string name="enter_card_number">Please enter card number.</string>
+    <string name="enter_valid_card_number">Please enter valid card number.</string>
+    <string name="cvv">CVV</string>
+    <string name="cvv_digit">The 3/4 digit security code on your code.</string>
+    <string name="please_enter_cvv">The 3/4 digit security code on your code.</string>
+    <string name="expiration_date">EXPIRATION DATE</string>
+    <string name="address_line1">ADDRESS LINE</string>
+    <string name="network_meaage">Network connection error. Please check your network connection.</string>
+    <string name="pay">Pay Amount</string>
+    <string name="pay_history">Payment History</string>
+    <string name="ok">Ok</string>
+    <string name="payment_history">Payment History</string>
+    <string name="logout">LOGOUT</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="amount">Amount</string>
+    <string name="token">Token</string>
+    <string name="card">Card</string>
+    <string name="address">Address</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <rotate
+            android:drawable="@drawable/material_loader_new"
+             />
+    </item>
+    <item
+        android:bottom="15dp"
+        android:drawable="@drawable/u"
+        android:left="15dp"
+        android:right="15dp"
+        android:top="15dp"/>
+
+</layer-list><!-- From: file:/F:/TestApp/app/src/main/res/drawable/loader_rotation.xml -->

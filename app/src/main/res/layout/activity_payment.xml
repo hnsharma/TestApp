@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:src="@drawable/back" />
+
+        <TextView
+            android:id="@+id/sign.in"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:padding="10dp"
+            android:text="@string/order"
+            android:textColor="@color/text_color"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/your_name"
+                    android:textColor="@color/text_color"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/f_name_and_l_name"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/fname"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/edittextbg"
+                    android:hint="First name"
+                    android:padding="5dp"
+                    android:singleLine="true"
+                    android:textColor="@color/text_color" />
+
+                <EditText
+                    android:id="@+id/lname"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/edittextbg"
+                    android:hint="Last name"
+                    android:padding="5dp"
+                    android:singleLine="true"
+                    android:textColor="@color/text_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/card_number"
+                    android:textColor="@color/text_color"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/card_long_number"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/card.number"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_weight="1"
+                    android:inputType="number"
+                    android:background="@drawable/edittextbg"
+                    android:hint="Card number"
+                    android:maxLength="16"
+                    android:padding="5dp"
+                    android:singleLine="true"
+                    android:textColor="@color/text_color" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/cvv"
+                    android:textColor="@color/text_color"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/cvv_digit"
+                    android:textColor="@android:color/darker_gray"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/cvv"
+                    android:layout_width="80dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:inputType="number"
+                    android:background="@drawable/edittextbg"
+                    android:hint="123"
+                    android:maxLength="16"
+                    android:nextFocusForward="@+id/expMonth"
+                    android:padding="5dp"
+                    android:singleLine="true"
+                    android:textColor="@color/text_color" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="AMOUNT"
+                    android:textColor="@color/text_color"
+                    android:textSize="16sp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/amount"
+                    android:layout_width="80dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/edittextbg"
+                    android:inputType="number"
+                    android:maxLength="16"
+                    android:nextFocusForward="@+id/expMonth"
+                    android:padding="5dp"
+                    android:singleLine="true"
+                    android:text="50"
+                    android:textColor="@color/text_color" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/expiration_date"
+                    android:textColor="@color/text_color"
+                    android:textSize="16sp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <Spinner
+                    android:id="@+id/expMonth"
+                    style="@style/ExpMonth"
+                    android:nextFocusForward="@+id/expYear" />
+
+                <Spinner
+                    android:id="@+id/expYear"
+                    style="@style/ExpYear"
+                    android:layout_marginLeft="10dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/address_line1"
+                    android:textColor="@color/text_color"
+                    android:textSize="16sp" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/address"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/edittextbg"
+                    android:hint="Address"
+                    android:maxLength="16"
+                    android:padding="5dp"
+                    android:singleLine="true"
+                    android:textColor="@color/text_color" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/next"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@color/green_color"
+                android:gravity="center">
+
+                <ImageView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:src="@drawable/next"
+                    android:tint="@android:color/white" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
